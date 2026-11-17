@@ -1,3 +1,5 @@
 moday pasta
 tuesday curry
 wednesday pizza
+thursday tacos
+friday burger
